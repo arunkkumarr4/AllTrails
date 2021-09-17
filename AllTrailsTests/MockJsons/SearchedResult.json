@@ -1,0 +1,40 @@
+{
+    "candidates": [
+        {
+            "formatted_address": "3182 16th St, San Francisco, CA 94103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 37.7649917,
+                    "lng": -122.4236361
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.76625367989271,
+                        "lng": -122.4223029201073
+                    },
+                    "southwest": {
+                        "lat": 37.76355402010727,
+                        "lng": -122.4250025798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Pakwan Restaurant",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107345865288643770422\">madhan babu</a>"
+                    ],
+                    "photo_reference": "Aap_uEBDw69NjFFhNJ0zB6GgcSN79OMIwQO-0EKzew6s1zs5AKOdiXZZmpo4YfJ2HQzRdZFtjSWER0sIDRXQ3YR9xjmVttxrq6fmzffSOFdu4TXyyqkKxhDTRyAg3AugdWhPjjaj-NeFMwYET2sXyEay_UPxbO_dpN71aKiA5mr9UX1bYcVb",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ63FMcyJ-j4ARToCkwO_-_LU",
+            "price_level": 1,
+            "rating": 4.4,
+            "user_ratings_total": 1253
+        }
+    ],
+    "status": "OK"
+}

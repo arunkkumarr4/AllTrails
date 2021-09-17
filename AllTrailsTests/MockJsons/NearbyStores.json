@@ -1,0 +1,1067 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEB0YE8d0IUDfm9W2gH5k0-pqif1tY-CKXSEzDNSWmGl82DmX8AR0RhSirWGN93FI37_kfCMN5XSN4ogNuChoQKAIM1sNIex2WCx07-PyMcWu3hj-LGf2GsyR5vLWBgnHWW2WhF9XPb7l-GqboP5zHigfgIt1VCm_v1KyuLFkIZJDfT0h13l-FJUl3rN932Q3vRhIdb-Oi0ALTZabm5XPuYN0KOAjO8aYyx9cYjDCrsFdTxKMqDhA6rq2kNWxhJJyOB1vY_L_L3w5uNlRhNyN8VpxY052WqTRmny7j9oU1vt8cxT44GZPQH30j2HQJ-FRwhCUbZ_ZxloyfmxA4r0IMnHakttF6NlD-P9fC1xcSbbjjHD6wpIIxrVdkMx9VJla77Yjh9fO49WU0JceMmlM0gD7EXPw5U136F2yBtbcb2BibQ5Zqg9RJ-iDXgg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7923897,
+                    "lng": -122.4104443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.79367328029149,
+                        "lng": -122.4093311697085
+                    },
+                    "southwest": {
+                        "lat": 37.79097531970849,
+                        "lng": -122.4120291302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Fairmont San Francisco",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1999,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117001312999071631829\">Fairmont San Francisco</a>"
+                    ],
+                    "photo_reference": "Aap_uEBqhZAH21HeI0gp-V6ae6Huci-VPxLYLlsICXI_OmJAVCchhkFBJ8arSDoJQHqiN2Vdq4petKe-IU3XUecca2V2X7XLDsHRnICe4iB9NFDg5-czs7_LkO09xmpfMwHBzdlkR1frP-9vXDxc5UjbHKAzSKr_-HasUpq3OphWRRsklQAP",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJN2S4EI2AhYAR9J4Qeh1U8Aw",
+            "plus_code": {
+                "compound_code": "QHRQ+XR Nob Hill, San Francisco, CA, USA",
+                "global_code": "849VQHRQ+XR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJN2S4EI2AhYAR9J4Qeh1U8Aw",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5361,
+            "vicinity": "950 Mason Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7841178,
+                    "lng": -122.4063857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7856139802915,
+                        "lng": -122.4056950697085
+                    },
+                    "southwest": {
+                        "lat": 37.7829160197085,
+                        "lng": -122.4083930302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Westfield San Francisco Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113277935102646580630\">Alexander Ni</a>"
+                    ],
+                    "photo_reference": "Aap_uEA8cKDfL6DEyxy2xJXfn5AjAkjQ-qbM2cclh1124-lBfo8CFsoJgHfgGsq-HSJV8Isnnc3F8QU4eKiK3o0B7l6o3qSGCy96V7DTJL1ZhwGRZZbQjRksIb-NYFjFJg2WQLH_I1ibumnusETUJlUQBNidXInqwayTC_cwD5vj6V3zFf5j",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6zMe3oWAhYARaZ33Z1BAMRo",
+            "plus_code": {
+                "compound_code": "QHMV+JC Yerba Buena, San Francisco, CA, USA",
+                "global_code": "849VQHMV+JC"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ6zMe3oWAhYARaZ33Z1BAMRo",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "department_store",
+                "movie_theater",
+                "shoe_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 17057,
+            "vicinity": "865 Market Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7934333,
+                    "lng": -122.3993139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7947191302915,
+                        "lng": -122.3979792197085
+                    },
+                    "southwest": {
+                        "lat": 37.7920211697085,
+                        "lng": -122.4006771802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Perbacco",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115596131442293140485\">Perbacco</a>"
+                    ],
+                    "photo_reference": "Aap_uEAKb1AHSqMYbmuPWUX0seNEmOaRnEAf9VvbHIV0Gun42AOhiQowsJoBnOsiaRlKF1wiiBmR_Iv4zXRI_DtfFxoo7FlGTdD0uyn2MXuPeMkroHYU1-4swY3lQ78i72GtImPCTFJvlxgtPiRo9Jv4xdKNctIniKHeMR-I1dO3HhWdypMg",
+                    "width": 5496
+                }
+            ],
+            "place_id": "ChIJNy8VmmGAhYARQF84_9twEc4",
+            "plus_code": {
+                "compound_code": "QJV2+97 Financial District, San Francisco, CA, USA",
+                "global_code": "849VQJV2+97"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJNy8VmmGAhYARQF84_9twEc4",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 802,
+            "vicinity": "230 California Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7839767,
+                    "lng": -122.4054904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7857326802915,
+                        "lng": -122.40465665
+                    },
+                    "southwest": {
+                        "lat": 37.7830347197085,
+                        "lng": -122.40799165
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Century San Francisco Centre 9 and XD",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113383859958122323675\">Kevin Kiningham</a>"
+                    ],
+                    "photo_reference": "Aap_uED_N2h2BTtM3_OugLPBamH7dXq5ml975hm6mxahiToQIIQWGthTa6m6rkAkXtXBExnu1PXq_Fd2PcfmA0Qxhqz1aJdrEEG9OuVhO_Xms8LjRTPTVJC8GEmpOJWBGcfZybnnaK3O02urXGw3w7ewfK-kzKvGeGbYUK1uRbkYUxDt36T2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6zMe3oWAhYARvOimeV5H7_w",
+            "plus_code": {
+                "compound_code": "QHMV+HR Yerba Buena, San Francisco, CA, USA",
+                "global_code": "849VQHMV+HR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ6zMe3oWAhYARvOimeV5H7_w",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1101,
+            "vicinity": "845 Market Street Suite 500, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7861185,
+                    "lng": -122.4115102
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7874766802915,
+                        "lng": -122.4101005197085
+                    },
+                    "southwest": {
+                        "lat": 37.7847787197085,
+                        "lng": -122.4127984802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Jasper's Corner Tap and Kitchen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105515009386445180875\">Jasper&#39;s Corner Tap and Kitchen</a>"
+                    ],
+                    "photo_reference": "Aap_uECrTRNPAkz9oQiUrmbu_QVvbwQktHqMxRsfT5BMM5pbcMe3QyWbI1BKeSWB3o1EFhGjPmmC6xpn0yaVF8cmt0AI1p7bxCKU35kE3kBQL1jGR8iE2Ir6cZnt_Lu-HOpyJuiWmr3WfomqZUKlNyR1kz27KvrAhhXBd_uo9Tx-5__L9KFZ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJsYeEyY-AhYARFukSYv7t_3Q",
+            "plus_code": {
+                "compound_code": "QHPQ+C9 Tenderloin, San Francisco, CA, USA",
+                "global_code": "849VQHPQ+C9"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJsYeEyY-AhYARFukSYv7t_3Q",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 576,
+            "vicinity": "401 Taylor Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7939998,
+                    "lng": -122.4023375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7953310302915,
+                        "lng": -122.4009484197085
+                    },
+                    "southwest": {
+                        "lat": 37.7926330697085,
+                        "lng": -122.4036463802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Wayfare Tavern",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113678993181395178414\">Wayfare Tavern</a>"
+                    ],
+                    "photo_reference": "Aap_uEAoMcdcX_xEv89okggyZ8hEHiJk-YeMBrxCycLkq5jfBtmGyFfB2mnMnBEK3_3uNPsh3uhVnx4gC2my5OpleR4GktQ1tcuQCV5K6bgB2VcRC3FmPSn2gPQwU0wLIi2LuOUBOAXFaJ8INCUcmMVZfU3xXk4LEACscCjrrgLDe9OGYh_q",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJE5T3YoqAhYARtxUohSbFVDc",
+            "plus_code": {
+                "compound_code": "QHVX+H3 Financial District, San Francisco, CA, USA",
+                "global_code": "849VQHVX+H3"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJE5T3YoqAhYARtxUohSbFVDc",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1839,
+            "vicinity": "558 Sacramento Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7833359,
+                    "lng": -122.4069933
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.78471083029149,
+                        "lng": -122.4055532197085
+                    },
+                    "southwest": {
+                        "lat": 37.7820128697085,
+                        "lng": -122.4082511802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Cavalier",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1191,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105661897803253438352\">The Cavalier</a>"
+                    ],
+                    "photo_reference": "Aap_uECq-QMnK0Kp87gIGLDRjLGh5Qayy5_C4_nvDURgXuXyBMzMM0qUAS7W7qIYV5bWVntXdHj0F0w8Kc1ow23OCxSiq53-qtHl53GMhRV4hcUBkxqirQ7OFWXvEOGn88dMc9EpUERTgHYIPawMX0v6ap1yMIJbhru8amkPkVCvfcq0ckNq",
+                    "width": 2120
+                }
+            ],
+            "place_id": "ChIJUUjhfoaAhYARRuSNp1R18vs",
+            "plus_code": {
+                "compound_code": "QHMV+86 Yerba Buena, San Francisco, CA, USA",
+                "global_code": "849VQHMV+86"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJUUjhfoaAhYARRuSNp1R18vs",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 865,
+            "vicinity": "360 Jessie Street, San Francisco"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 37.7982126,
+                    "lng": -122.4074595
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7996084302915,
+                        "lng": -122.4060156697085
+                    },
+                    "southwest": {
+                        "lat": 37.7969104697085,
+                        "lng": -122.4087136302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Stinking Rose",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3168,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103044497917754578442\">The Stinking Rose</a>"
+                    ],
+                    "photo_reference": "Aap_uECMqH8UybYBtkX6MpXr98CM-To3YAbAXHC4_OpzsrKZ0rexv0sTMmCD6vwuamla5t0a7yWeH8SQ7rImRiQdT6yAQQjWhn7tWbTtw6KtwbkMVMadRPPxFaVnS2TZLsGgr4sS4QbtxwgrVbXjnAn-7hnapI41kD-P8-0SIch6ww3eEdZS",
+                    "width": 4752
+                }
+            ],
+            "place_id": "ChIJW52Si_OAhYAR-jAC1-iQh_c",
+            "plus_code": {
+                "compound_code": "QHXV+72 Russian Hill, San Francisco, CA, USA",
+                "global_code": "849VQHXV+72"
+            },
+            "price_level": 3,
+            "rating": 4.2,
+            "reference": "ChIJW52Si_OAhYAR-jAC1-iQh_c",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3125,
+            "vicinity": "325 Columbus Avenue, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7854669,
+                    "lng": -122.3996207
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7868810302915,
+                        "lng": -122.3983506697085
+                    },
+                    "southwest": {
+                        "lat": 37.7841830697085,
+                        "lng": -122.4010486302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "ThirstyBear Brewing Company",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "Photos are copyrighted by their owners"
+                    ],
+                    "photo_reference": "Aap_uEAG57lv0-r31lQwX3eSeKcN58kMBu378zrgmaz3-8Qhoge_VocbMYDJND0NRpUm3fOWWUxI8hp9pdaN6U8lSRPoIQdZlgApjPXdMO6OrtIFr6z32aEHAMKwiactIR7jgrMDMtVyjlsIQtnho6cMTrV_1DsnaCdGWvDeOQ5_IzwB7mLL",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJ39DPC32AhYARAoTh-QZjrN8",
+            "plus_code": {
+                "compound_code": "QJP2+55 Yerba Buena, San Francisco, CA, USA",
+                "global_code": "849VQJP2+55"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ39DPC32AhYARAoTh-QZjrN8",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 772,
+            "vicinity": "661 Howard Street, San Francisco"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 37.78591739999999,
+                    "lng": -122.4046841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7868283302915,
+                        "lng": -122.4033872697085
+                    },
+                    "southwest": {
+                        "lat": 37.7841303697085,
+                        "lng": -122.4060852302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Bluestem Brasserie",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108641306468647818889\">Robert Bolar</a>"
+                    ],
+                    "photo_reference": "Aap_uEACxtg0uMeDZo4V4pmgGOyOZmAPRwa0vgroObGpMIVL93D_2kt7Gbqla5zUdYCWwoU0cVVNLoT8zXv1ZmQtFU0IPqbE8SG7wTRCi3QzD3LaDr9s9xDFmQNvqZFipRiYRd-AwG88Y25pdUfxvJzvxq70UlMYknqX74NVswLM-wHfRuDt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJD3SSEnyAhYARIINe4K2QH48",
+            "plus_code": {
+                "compound_code": "QHPW+94 Yerba Buena, San Francisco, CA, USA",
+                "global_code": "849VQHPW+94"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJD3SSEnyAhYARIINe4K2QH48",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 699,
+            "vicinity": "1 Yerba Buena Lane, San Francisco"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 37.7905938,
+                    "lng": -122.4044241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.79198728029151,
+                        "lng": -122.4031672697085
+                    },
+                    "southwest": {
+                        "lat": 37.78928931970851,
+                        "lng": -122.4058652302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Cafe Claude",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2791,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110612068001675972859\">Cafe Claude</a>"
+                    ],
+                    "photo_reference": "Aap_uEAf8N2sbyji0VLDeFsecdqabxvvgaWGBKO3jxQyC6fnuS5YcKr-pNEqphsXRM7vgap75y-MUStbLxCSm2iexcUU34pQofNvin2TcIE34Zop8ABokj8GGAyFZD_tiq6XqjIkXeBMxH5Nvt60z-NG4JMKAtXPxSHmsb4300KfOg0Zrdue",
+                    "width": 4407
+                }
+            ],
+            "place_id": "ChIJSdzjdYmAhYARb5BhktWOSg4",
+            "plus_code": {
+                "compound_code": "QHRW+66 Financial District, San Francisco, CA, USA",
+                "global_code": "849VQHRW+66"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJSdzjdYmAhYARb5BhktWOSg4",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 700,
+            "vicinity": "7 Claude Lane, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.789696,
+                    "lng": -122.40585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.79098593029149,
+                        "lng": -122.4044980197085
+                    },
+                    "southwest": {
+                        "lat": 37.78828796970849,
+                        "lng": -122.4071959802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "E&O Kitchen and Bar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2025,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106064566707683803117\">E&amp;O Kitchen and Bar</a>"
+                    ],
+                    "photo_reference": "Aap_uEC1XVVXsMHhdT_wayoSseZye40FozpGGnc8oPsNQnT3uUz72Y7HIQBm0QL5bdVV7aHTf7aegdk4VEUa5Gu76yCTalypRyA5fDJLH6Oozb5OnZltp1CxGzTge3kHMN24m6Wd_xJtfjgV726qDdepGOfGoRuvN2OTsxKwC0EOzeiN5Vxd",
+                    "width": 3600
+                }
+            ],
+            "place_id": "ChIJGXWXQYmAhYAR-Nr_OyKvI2o",
+            "plus_code": {
+                "compound_code": "QHQV+VM Financial District, San Francisco, CA, USA",
+                "global_code": "849VQHQV+VM"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJGXWXQYmAhYAR-Nr_OyKvI2o",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1049,
+            "vicinity": "314 Sutter Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.787253,
+                    "lng": -122.407442
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7882479802915,
+                        "lng": -122.4060782697085
+                    },
+                    "southwest": {
+                        "lat": 37.7855500197085,
+                        "lng": -122.4087762302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Cheesecake Factory",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108193614477417210018\">William Bu</a>"
+                    ],
+                    "photo_reference": "Aap_uECxfQP6zkXTmYP79e2TAscoReAHJiKfiwsVJO3Pwomhb8WnQgoE-rEDjvsO8GZhf097WVENMu8CTupdgp1TviWMFWxzbQOAFQzQFDlHkuvDVKOOq0ve7Gdtv5pRdVzn5z4bzCioHa37wQlSY_TsibtTRZFoqdLwwMC6qbIiQ6Tj4yyz",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJG-PkK4-AhYARxW6vm0X9kCQ",
+            "plus_code": {
+                "compound_code": "QHPV+W2 Tenderloin, San Francisco, CA, USA",
+                "global_code": "849VQHPV+W2"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJG-PkK4-AhYARxW6vm0X9kCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2234,
+            "vicinity": "251 Geary Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7853583,
+                    "lng": -122.40405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7871056802915,
+                        "lng": -122.4026656
+                    },
+                    "southwest": {
+                        "lat": 37.7844077197085,
+                        "lng": -122.4059392
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Tropisueño",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 700,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100685703582039503532\">Tropisueño</a>"
+                    ],
+                    "photo_reference": "Aap_uEAsxJ04nzJI5LfSGWt3bVneWIb6D-StOJmtv2whg8ZJe6XjpMZVGHlxljHk_HmYZW9fn3Bmvt7hIZxByFISjfOHiqpD2Sia3B_sK4qzEI8gr_06Nfr6fWvWT0X3wtKozwW_RsO30X47uZiIk5KtFLtoAJo7CvM1U-6ivOoauq692N2b",
+                    "width": 1240
+                }
+            ],
+            "place_id": "ChIJfcaly4eAhYARSIvvfFpH64w",
+            "plus_code": {
+                "compound_code": "QHPW+49 Yerba Buena, San Francisco, CA, USA",
+                "global_code": "849VQHPW+49"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJfcaly4eAhYARSIvvfFpH64w",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2629,
+            "vicinity": "75 Yerba Buena Lane, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7859691,
+                    "lng": -122.4047286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.78681973029149,
+                        "lng": -122.4032689197085
+                    },
+                    "southwest": {
+                        "lat": 37.7841217697085,
+                        "lng": -122.4059668802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Amber Indian Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101518256960314527495\">David Carlos 1515</a>"
+                    ],
+                    "photo_reference": "Aap_uED5FEbuLRCFX_uKyy4mQXJBCOlmZGizwNtf2zWdraFu38H0A_EWh33hOjlwinGluhgxr8Ddj-7HOEKhKKF8Y11bFQzciRDvbdhPFCIBiM8aevEnZnzfuLDVXcHafrLL8hXeIznmVZQw3CYEvhomw96jPzavYZrlME9SwCUhktgLIlXG",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJD8yVgoiAhYAR6Hl-j7OC2I8",
+            "plus_code": {
+                "compound_code": "QHPW+94 Yerba Buena, San Francisco, CA, USA",
+                "global_code": "849VQHPW+94"
+            },
+            "price_level": 3,
+            "rating": 4.2,
+            "reference": "ChIJD8yVgoiAhYAR6Hl-j7OC2I8",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1437,
+            "vicinity": "25 Yerba Buena Lane, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7816977,
+                    "lng": -122.4100146
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.78311048029149,
+                        "lng": -122.4085561197085
+                    },
+                    "southwest": {
+                        "lat": 37.78041251970849,
+                        "lng": -122.4112540802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dottie's True Blue Café",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110788778067984516261\">Adam Kuo</a>"
+                    ],
+                    "photo_reference": "Aap_uEDoJehvL2ufjdn6C6urMzQ48RVd8477KlRLfL5lsDDkQWD9jQTvMrRTsXwFievwBNt2nihvmatIas2sSsCbGQZ80z3ZOJYhQX0f2Hx693i2FDNxDMnJmE4UvX0k1S_5Wv3JzBzkpSTbLZYasOfWhLWaRHloNuNG5-HqgW3mTooW73Kl",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJXbxV1JGAhYARPXnXlHU1eoY",
+            "plus_code": {
+                "compound_code": "QHJQ+MX Mid-Market, San Francisco, CA, USA",
+                "global_code": "849VQHJQ+MX"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJXbxV1JGAhYARPXnXlHU1eoY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1420,
+            "vicinity": "28 6th Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.7884307,
+                    "lng": -122.4131037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.78989423029151,
+                        "lng": -122.4117772697085
+                    },
+                    "southwest": {
+                        "lat": 37.78719626970851,
+                        "lng": -122.4144752302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Fleur De Lys",
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115265050663775250842\">Seth Gregory</a>"
+                    ],
+                    "photo_reference": "Aap_uEAJywBQjD5eGhmwTsdYW3XSVcjQBNlX3uaoixFmxuhVM_YpD1g845XPo-fac9x5yQVNMJ68acAB_qA4J0s1i8n4xzsVqIeT94s9H3xXhzzYUk8VyZZeNgwu_Lehz-P-WbXqPnw4EOMtKSeRu3GhkGH0_WDyOBAzqfzvxL0FLDOUnDho",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJuwVhAZKAhYARoJiP2kxW6I8",
+            "plus_code": {
+                "compound_code": "QHQP+9Q Lower Nob Hill, San Francisco, CA, USA",
+                "global_code": "849VQHQP+9Q"
+            },
+            "rating": 4.5,
+            "reference": "ChIJuwVhAZKAhYARoJiP2kxW6I8",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 85,
+            "vicinity": "777 Sutter Street, San Francisco"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.785433,
+                    "lng": -122.407233
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7868585802915,
+                        "lng": -122.4058717697085
+                    },
+                    "southwest": {
+                        "lat": 37.7841606197085,
+                        "lng": -122.4085697302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "John's Grill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1116,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100147472124310879424\">John&#39;s Grill</a>"
+                    ],
+                    "photo_reference": "Aap_uEC73JN-U8Jjt0Y1GkZL11K5hfr6ox-Y8cbRh6nBpCUOKM_6lerAvKNJi1Dv0HjNjYbwF2L9v3kVkOfJvf-r140IA6JJXOxUd2joNIqRLqPImCELwxytOW553JJU3qsNzQG4Dls8WuA5S_90s7KPGiVmwsOdWVVptuhxug7_uBsgRF5o",
+                    "width": 1491
+                }
+            ],
+            "place_id": "ChIJe9MuVY-AhYARb8Su4vUOneY",
+            "plus_code": {
+                "compound_code": "QHPV+54 Tenderloin, San Francisco, CA, USA",
+                "global_code": "849VQHPV+54"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJe9MuVY-AhYARb8Su4vUOneY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2565,
+            "vicinity": "63 Ellis Street, San Francisco"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 37.79138330000001,
+                    "lng": -122.4121583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.79286733029151,
+                        "lng": -122.4108936197085
+                    },
+                    "southwest": {
+                        "lat": 37.79016936970851,
+                        "lng": -122.4135915802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Big 4",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3150,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108565477471353139405\">The Big 4</a>"
+                    ],
+                    "photo_reference": "Aap_uECWDzn7UmwLfmRd-IneUDCSbyRIhKXdplCYWyI5AL6WYcsLxYYsa2907zmp4ACtXl-Y0CN4t_78p9xJYwcQqo3RYqn1mssJS6p9tvHnPFwrUOjA7HGk3wln7E9cyd2RksuaYgPdd0pa8cO7M8SmA0hME7y9OBnnD92VAm5GmkWVueah",
+                    "width": 4756
+                }
+            ],
+            "place_id": "ChIJo_6Ueo2AhYARsBQcUwYK84Y",
+            "plus_code": {
+                "compound_code": "QHRQ+H4 Lower Nob Hill, San Francisco, CA, USA",
+                "global_code": "849VQHRQ+H4"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJo_6Ueo2AhYARsBQcUwYK84Y",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 346,
+            "vicinity": "1075 California Street, San Francisco"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 37.7783424,
+                    "lng": -122.3967887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.77965853029151,
+                        "lng": -122.3953804197085
+                    },
+                    "southwest": {
+                        "lat": 37.77696056970851,
+                        "lng": -122.3980783802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Marlowe",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116906994379498377997\">Alexander</a>"
+                    ],
+                    "photo_reference": "Aap_uEDhB2-vWWOplxBBBv0DroA1zbkZ13Wai0ynSHuBg64Roj0U9lVKM87srrr5FwbPqunyjtFwK0GOFFA4NBBl4MqfgMC81RIRrGR0SMJ7rrRquE8ifkqVXuiYhMKRwk2FU4MSQx2SPydPCfCOmFdN1qFS0LBvwSAK7r5gP_5QyNEHL-hI",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJK08gKtR_j4ARKyo5suJ6o2I",
+            "plus_code": {
+                "compound_code": "QJH3+87 SoMa, San Francisco, CA, USA",
+                "global_code": "849VQJH3+87"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJK08gKtR_j4ARKyo5suJ6o2I",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1512,
+            "vicinity": "500 Brannan Street, San Francisco"
+        }
+    ],
+    "status": "OK"
+}
